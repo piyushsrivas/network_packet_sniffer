@@ -25,14 +25,15 @@ Installation
 -----------------
 📌 Install Python (3.10 or above)  
 
-  Download: https://www.python.org/downloads/  
+  * Download: https://www.python.org/downloads/  
 
 📌 Install Required Python Library  
-    pip install scapy. (In Bash)  
+
+  * pip install scapy. (In Bash)  
 
 📌 Install Npcap (Required for Windows Packet Sniffing)  
 
-   Download from: https://npcap.com/#download  
+  * Download from: https://npcap.com/#download  
 
 During installation, enable:  
 ------------------------------
@@ -41,10 +42,10 @@ During installation, enable:
 
 ▶️ Usage
 ------------
-Run the sniffer:  
-(In Bash)  
-python packet_sniffer.py  
-The program will start capturing packets immediately.  
+* Run the sniffer:  
+* (In Bash)  
+* python packet_sniffer.py  
+* The program will start capturing packets immediately.  
 
 🧪 Sample Output  
 ------------------
@@ -58,7 +59,7 @@ The program will start capturing packets immediately.
 
 ❌ How to Stop the Sniffer
 ----------------------------
-Press CTRL + C in the terminal.
+* Press CTRL + C in the terminal.
 
 
 ⚠️ Legal & Ethical Notice
